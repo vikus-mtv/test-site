@@ -1,0 +1,1 @@
+$('.click-me').on('click', function() { window.location = '/myloc'; });
